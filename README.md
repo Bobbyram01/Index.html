@@ -9,7 +9,7 @@ A personal study tracker to support UPSC Civil Services Examination preparation.
 - Standalone HTML backup
 
 ## Getting Started
-Download `BR_UPSC_CSE_2028_Tracker.html` from this repository and open it in a compatible browser.
+Download `Index.html` from this repository and open it in a compatible browser.
 
 ## Important Notes
 This repository contains a standalone HTML backup. Cloud sync, authentication, AI features, and live data feeds may require a separately configured backend.
